@@ -25,10 +25,7 @@ exploits
 useful websites 
 ```
 ## Credits:
-https://github.com/dragon731012/-WORKING-bookmarklets-and-games
-
-https://github.com/05Konz/Blooket-Cheats (reupload of minesraft2's cheats)
-
-https://github.com/Legend7269/Bookmarklets
-
-some google sites that got taken down for proxying 😦
+- https://github.com/dragon731012/-WORKING-bookmarklets-and-games
+- https://github.com/05Konz/Blooket-Cheats (reupload of minesraft2's cheats)
+- https://github.com/Legend7269/Bookmarklets
+- some google sites that got taken down for proxying 😦
