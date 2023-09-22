@@ -7,8 +7,8 @@ then select the file
 
 ### Note: all pull requests will be fully examined. PLEASE give unobfuscated and uncompressed code DO NOT use a tool to bookmarkletify it, just give the raw script, I will do the bookmarkleting on my end.
 
-```diff
- accesibility
+
+accesibility
 
 dumb stuff
 
@@ -23,7 +23,7 @@ web game hacks
 exploits 
 
 useful websites 
-```
+
 ## Credits:
 - https://github.com/dragon731012/-WORKING-bookmarklets-and-games
 - https://github.com/05Konz/Blooket-Cheats (reupload of minesraft2's cheats)
